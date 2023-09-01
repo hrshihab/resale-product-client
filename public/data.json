@@ -1,0 +1,87 @@
+[
+    {
+      
+      "resale_price": "500000",
+      "original_price" : "700000",
+      "picture": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYm9vayUyMHByb3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "name": "MacBook",
+      "category_name":"MacBook",
+      "condition": "Good",
+      "phone": "+1 (805) 417-3043",
+      "location": "Dhaka Bangladesh",
+      "description": "Adipisicing incididunt sit non ullamco occaecat quis ipsum minim aliquip et nisi mollit consectetur deserunt. Tempor voluptate ut velit non Lorem tempor reprehenderit velit. Culpa minim proident ad dolore laborum eu officia exercitation qui veniam officia ut. Nisi est voluptate ad proident duis exercitation sint qui consectetur incididunt deserunt. Lorem incididunt id minim Lorem et in reprehenderit.\r\n",
+      "parchaseYear": "2023-02-22T04:56:10 -06:00",
+      "used-year": "2 Year"
+    
+    },
+    {
+      
+      "resale_price": "300000",
+      "original_price" : "1700000",
+      "picture": "https://media.architecturaldigest.com/photos/5bd8ac137c86c80e83b4b317/3:2/w_2532,h_1688,c_limit/MacBook-Air-Keyboard-and-Ports-10302018.jpg",
+      "name": "MacBook 2",
+      "category_name":"MacBook",
+      "condition": "Fair",
+      "phone": "+1 (824) 545-2283",
+      "location": "Dhaka Bangladesh",
+      "description": "Deserunt cillum veniam duis enim non id. Ullamco aliqua minim velit occaecat eu proident ipsum elit. Nisi tempor irure fugiat qui. Exercitation dolor exercitation adipisicing do.\r\n",
+      "parchaseYear": "2016-07-05T03:35:10 -06:00",
+      "used-year": "2 Year"
+    },
+    {
+      
+      "resale_price": "90000",
+      "original_price" : "72000",
+      "picture": "https://images.hindustantimes.com/tech/img/2022/07/18/960x540/IMG_4316_1658126389416_1658126408126_1658126408126.jpg",
+      "name": "HP 1",
+      "condition": "Good",
+      "category_name":"HP",
+      "phone": "+1 (921) 407-3874",
+      "location": "Dhaka Bangladesh",
+      "description": "Ea culpa irure et eiusmod magna sit ut laborum non anim irure ut. Cillum consequat duis cupidatat commodo enim. Occaecat minim officia sint sint non. Sunt quis non ex aliqua veniam veniam occaecat. Fugiat aliqua laboris excepteur ad do ex sint ullamco pariatur excepteur veniam non exercitation elit. Nulla nulla quis enim exercitation cillum esse cillum dolore minim esse Lorem reprehenderit.\r\n",
+      "parchaseYear": "2015-01-20T07:46:03 -06:00",
+      "used-year": "2 Year"
+    },
+    {
+
+      "resale_price": "50000",
+      "original_price" : "30000",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRkZYQSxLwHEMpTVQWEDISrvgHFHXoyIcMA&usqp=CAU",
+      "name": "Hp2",
+      "category_name":"HP",
+      "condition": "Good",
+      "phone": "+1 (853) 490-2676",
+      "location": "Dhaka Bangladesh",
+      "description": "Amet ullamco et labore id in reprehenderit amet ut excepteur. Non amet duis eiusmod ullamco esse reprehenderit. Laborum ad est exercitation elit et sunt sunt dolore amet. Veniam qui ad nostrud dolor anim eiusmod ad irure in.\r\n",
+      "parchaseYear": "2020-06-27T09:35:34 -06:00",
+      "used-year": "2 Year"
+    },
+    {
+      
+      "resale_price": "80000",
+      "original_price" : "50000",
+      "picture": "https://www.shutterstock.com/image-photo/poznan-pol-sep-23-2020-260nw-1849577599.jpg",
+      "name": "Dell 1",
+      "category_name":"Dell",
+      "condition": "Fair",
+      "phone": "+1 (806) 470-3367",
+      "location": "Dhaka Bangladesh",
+      "description": "Aliqua consectetur sint officia occaecat officia sunt non proident. Reprehenderit fugiat cupidatat ea aliqua officia reprehenderit nulla eu adipisicing culpa esse. Quis fugiat cillum consequat do non occaecat exercitation non dolore.\r\n",
+      "parchaseYear": "2015-07-12T03:45:50 -06:00",
+      "used-year": "2 Year"
+    },
+    {
+     
+      "resale_price": "70000",
+      "original_price" : "20000",
+      "picture": "https://root-nation.com/wp-content/uploads/2020/09/asus-laptop-15-x509jb-1.jpg",
+      "name": "Dell 2",
+      "category_name":"Dell",
+      "condition": "Good",
+      "phone": "+1 (999) 598-2429",
+      "location": "Dhaka Bangladesh",
+      "description": "Eu proident proident exercitation ullamco culpa aute minim irure cupidatat. Magna adipisicing id incididunt dolore do quis amet aliqua do. Consequat quis exercitation voluptate esse. Elit ex adipisicing deserunt dolor adipisicing ex officia irure ex labore. Voluptate nisi dolore anim ipsum. Elit commodo proident laboris consectetur velit nisi in laboris aliqua magna dolore officia aliquip.\r\n",
+      "parchaseYear": "2014-10-26T10:51:50 -06:00",
+      "used-year": "2 Year"
+    }
+  ]
